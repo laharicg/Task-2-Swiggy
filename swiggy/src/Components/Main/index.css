@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+main {
+  /* height: 100%; */
+
+  max-width: 1200px;
+  min-width: 1200px;
+  margin: 0 auto;
+}
+
+.app__header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: white;
+  padding: 0px;
+  object-fit: contain;
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  justify-content: space-between;
+}
+
+.app__headerImage {
+  max-width: 500px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  max-height: 100px;
+  margin-left: 200px;
+  object-fit: contain;
+}

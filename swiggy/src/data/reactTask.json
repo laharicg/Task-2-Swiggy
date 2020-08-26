@@ -1,0 +1,611 @@
+[
+  {
+    "category": "popular brands",
+    "restaurantList": [
+      {
+        "name": "KFC",
+        "url": "https://b.zmtcdn.com/data/pictures/chains/0/200700/4509f61bc86c00530e34363fade899bd.jpg",
+        "food_types": ["Fast Food", "Beverages"],
+        "ratings": "4.5",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 1000
+      },
+      {
+        "name": "Paradise - World's Favourite Biryani",
+        "url": "https://b.zmtcdn.com/data/pictures/chains/2/91662/e8dbc0aacca39bcddec86225759d6b6e.jpg",
+        "food_types": ["Hyderabadi", "Mughlai", "Chinese", "Beverages"],
+        "ratings": "4.2",
+        "isExlusive": false,
+        "delivery_time": "47 mins",
+        "price_for_two": 1200
+      },
+      {
+        "name": "Cocoberry",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/6cf95034-bd47-4d54-b9f8-8c4db59d0473.jpg",
+        "food_types": ["Desserts"],
+        "ratings": "4.2",
+        "isExlusive": true,
+        "delivery_time": "52 mins",
+        "price_for_two": 200
+      },
+      {
+        "name": "Barbeque Nation",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/6b/65/de/grilled-prawns.jpg",
+        "food_types": [
+          "North Indian",
+          "Chinese",
+          "Multi-cuisine",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "31 mins",
+        "price_for_two": 400
+      },
+      {
+        "name": "Domino's pizza",
+        "url": "https://www.dominos.co.in/files/items/_1346164951.jpg",
+        "food_types": ["North Indian", "Chinese", "Desserts"],
+        "ratings": "4.1",
+        "isExlusive": false,
+        "delivery_time": "35 mins",
+        "price_for_two": 700
+      },
+      {
+        "name": "Burger King",
+        "url": "https://i.insider.com/5d8ca1222e22af53447766c2?width=1100&format=jpeg&auto=webp",
+        "food_types": ["Fast Food"],
+        "ratings": "4.3",
+        "isExlusive": false,
+        "delivery_time": "42 mins",
+        "price_for_two": 300
+      },
+      {
+        "name": "Moti Mahal Delux",
+        "url": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Non_Veg_Recipes/Butter_chicken_recipe.jpg",
+        "food_types": [
+          "North Indian",
+          "Muglai",
+          "Continental",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "4.7",
+        "isExlusive": true,
+        "delivery_time": "78 mins",
+        "price_for_two": 1100
+      },
+      {
+        "name": "Hot Spot Mini Shop",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": [
+          "Fast Food",
+          "Snacks",
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "4.0",
+        "isExlusive": true,
+        "delivery_time": "108 mins",
+        "price_for_two": 1300
+      },
+      {
+        "name": "KAKE DA HOTEL",
+        "url": "https://5.imimg.com/data5/EG/KZ/XN/IOS-61267510/punjabi-thali-500x500.jpeg",
+        "food_types": ["North Indian", "Desserts", "Beverages"],
+        "ratings": "4.8",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 350
+      },
+      {
+        "name": "ibaco",
+        "url": "https://images.jdmagicbox.com/comp/visakhapatnam/d9/0891px891.x891.171231192505.s8d9/catalogue/ibaco-kirlampudi-layout-visakhapatnam-ibaco-cizhsivp6a.jpg",
+        "food_types": ["Bakery"],
+        "ratings": "3.7",
+        "isExlusive": true,
+        "delivery_time": "25 mins",
+        "price_for_two": 400
+      }
+    ]
+  },
+  {
+    "category": "offers near you",
+    "restaurantList": [
+      {
+        "name": "Hot Spot Mini Shop",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": [
+          "Fast Food",
+          "Snacks",
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "4.0",
+        "isExlusive": true,
+        "delivery_time": "108 mins",
+        "price_for_two": 1300
+      },
+      {
+        "name": "Gokul Chat",
+        "url": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Aam_Panna_Pani_Puri_Recipe_.jpg",
+        "food_types": ["North Indian", "Chinese", "Beverages"],
+        "ratings": "4.2",
+        "isExlusive": false,
+        "delivery_time": "47 mins",
+        "price_for_two": 1200
+      },
+      {
+        "name": "Cocoberry",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/6cf95034-bd47-4d54-b9f8-8c4db59d0473.jpg",
+        "food_types": ["Desserts"],
+        "ratings": "4.2",
+        "isExlusive": true,
+        "delivery_time": "52 mins",
+        "price_for_two": 200
+      },
+      {
+        "name": "World Art Dining - Cook house",
+        "url": "https://i.livingfoodz.com/blog_images/099000895e9a53b62d85c46c4d0d62e4_thumb_1200.jpg",
+        "food_types": [
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 1000
+      },
+      {
+        "name": "Nanking",
+        "url": "https://flockler.com/thumbs/sites/192/2100x3000_howtonoodles_01b-d49778b7-1065-4531-a1bb-541fb313ada4_s1200x630_c2100x1226_l0x884.jpg",
+        "food_types": ["North Indian", "Chinese"],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "31 mins",
+        "price_for_two": 400
+      },
+      {
+        "name": "ibaco",
+        "url": "https://images.jdmagicbox.com/comp/visakhapatnam/d9/0891px891.x891.171231192505.s8d9/catalogue/ibaco-kirlampudi-layout-visakhapatnam-ibaco-cizhsivp6a.jpg",
+        "food_types": ["Bakery"],
+        "ratings": "3.7",
+        "isExlusive": true,
+        "delivery_time": "25 mins",
+        "price_for_two": 400
+      },
+      {
+        "name": "Burger King",
+        "url": "https://article.innovadatabase.com/articleimgs/article_images/637069869662693578Impossible%20Whopper%20-%20Burger%20King%20800x800.jpg",
+        "food_types": ["Fast Food"],
+        "ratings": "4.3",
+        "isExlusive": false,
+        "delivery_time": "42 mins",
+        "price_for_two": 300
+      },
+
+      {
+        "name": "Moti Mahal Delux",
+        "url": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Non_Veg_Recipes/Butter_chicken_recipe.jpg",
+        "food_types": [
+          "North Indian",
+          "Muglai",
+          "Continental",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "2.7",
+        "isExlusive": true,
+        "delivery_time": "78 mins",
+        "price_for_two": 700
+      },
+      {
+        "name": "Lotus Leaf",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": ["North Indian", "Chinese", "Desserts"],
+        "ratings": "3.1",
+        "isExlusive": false,
+        "delivery_time": "135 mins",
+        "price_for_two": 1700
+      },
+      {
+        "name": "Hot Spot Mini Shop",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": [
+          "Fast Food",
+          "Snacks",
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "4.0",
+        "isExlusive": true,
+        "delivery_time": "108 mins",
+        "price_for_two": 1300
+      },
+      {
+        "name": "Coastal Aroma ",
+        "url": "https://imgk.timesnownews.com/story/sea_foodiStock-980462262.jpg?tr=w-1200,h-900",
+        "food_types": ["North Indian", "Chinese", "Beverages"],
+        "ratings": "4.2",
+        "isExlusive": false,
+        "delivery_time": "47 mins",
+        "price_for_two": 1200
+      },
+      {
+        "name": "Cocoberry",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/6cf95034-bd47-4d54-b9f8-8c4db59d0473.jpg",
+        "food_types": ["Desserts"],
+        "ratings": "4.2",
+        "isExlusive": true,
+        "delivery_time": "52 mins",
+        "price_for_two": 200
+      },
+      {
+        "name": "World Art Dining - Cook house",
+        "url": "https://i.livingfoodz.com/blog_images/099000895e9a53b62d85c46c4d0d62e4_thumb_1200.jpg",
+        "food_types": [
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 1000
+      },
+      {
+        "name": "Nanking",
+        "url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1-500x500.jpg",
+        "food_types": ["North Indian", "Chinese"],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "31 mins",
+        "price_for_two": 400
+      },
+      {
+        "name": "KAKE DA HOTEL",
+        "url": "https://5.imimg.com/data5/EG/KZ/XN/IOS-61267510/punjabi-thali-500x500.jpeg",
+        "food_types": ["North Indian", "Desserts", "Beverages"],
+        "ratings": "4.8",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 350
+      }
+    ]
+  },
+  {
+    "category": "Express delivery",
+    "restaurantList": [
+      {
+        "name": "Hot Spot Mini Shop",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": [
+          "Fast Food",
+          "Snacks",
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "4.0",
+        "isExlusive": false,
+        "delivery_time": "108 mins",
+        "price_for_two": 1300
+      },
+      {
+        "name": "Coastal Aroma",
+        "url": "https://imgk.timesnownews.com/story/sea_foodiStock-980462262.jpg?tr=w-1200,h-900",
+        "food_types": ["North Indian", "Chinese", "Beverages"],
+        "ratings": "4.2",
+        "isExlusive": true,
+        "delivery_time": "47 mins",
+        "price_for_two": 1200
+      },
+      {
+        "name": "Cocoberry",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/6cf95034-bd47-4d54-b9f8-8c4db59d0473.jpg",
+        "food_types": ["Desserts"],
+        "ratings": "4.2",
+        "isExlusive": false,
+        "delivery_time": "52 mins",
+        "price_for_two": 200
+      },
+
+      {
+        "name": "KAKE DA HOTEL",
+        "url": "https://5.imimg.com/data5/EG/KZ/XN/IOS-61267510/punjabi-thali-500x500.jpeg",
+        "food_types": ["North Indian", "Desserts", "Beverages"],
+        "ratings": "4.8",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 350
+      },
+      {
+        "name": "Paradise ",
+        "url": "https://ethnomed.org/wp-content/uploads/2020/01/chinese-food-omefrans.jpg",
+        "food_types": ["North Indian", "Chinese", "Beverages"],
+        "ratings": "4.2",
+        "isExlusive": false,
+        "delivery_time": "47 mins",
+        "price_for_two": 1200
+      },
+
+      {
+        "name": "Lotus Leaf",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": ["North Indian", "Chinese", "Desserts"],
+        "ratings": "3.1",
+        "isExlusive": true,
+        "delivery_time": "135 mins",
+        "price_for_two": 1700
+      },
+      {
+        "name": "Hot Spot Mini Shop",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": [
+          "Fast Food",
+          "Snacks",
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "4.0",
+        "isExlusive": true,
+        "delivery_time": "108 mins",
+        "price_for_two": 1300
+      },
+
+      {
+        "name": "Nanking",
+        "url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1-500x500.jpg",
+        "food_types": ["North Indian", "Chinese"],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "31 mins",
+        "price_for_two": 400
+      },
+      {
+        "name": "KAKE DA HOTEL",
+        "url": "https://5.imimg.com/data5/EG/KZ/XN/IOS-61267510/punjabi-thali-500x500.jpeg",
+        "food_types": ["North Indian", "Desserts", "Beverages"],
+        "ratings": "4.8",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 350
+      },
+      {
+        "name": "Cocoberry",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/6cf95034-bd47-4d54-b9f8-8c4db59d0473.jpg",
+        "food_types": ["Desserts"],
+        "ratings": "4.2",
+        "isExlusive": true,
+        "delivery_time": "52 mins",
+        "price_for_two": 200
+      },
+      {
+        "name": "World Art Dining - Cook house",
+        "url": "https://i.livingfoodz.com/blog_images/099000895e9a53b62d85c46c4d0d62e4_thumb_1200.jpg",
+        "food_types": [
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 1000
+      },
+      {
+        "name": "World Art Dining - Cook house",
+        "url": "https://i.livingfoodz.com/blog_images/099000895e9a53b62d85c46c4d0d62e4_thumb_1200.jpg",
+        "food_types": [
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 1000
+      },
+      {
+        "name": "Nanking",
+        "url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1-500x500.jpg",
+        "food_types": ["North Indian", "Chinese"],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "31 mins",
+        "price_for_two": 400
+      }
+    ]
+  },
+  {
+    "category": "Gourmet",
+    "restaurantList": [
+      {
+        "name": "Golden Dragon",
+        "url": "https://ethnomed.org/wp-content/uploads/2020/01/chinese-food-omefrans.jpg",
+        "food_types": ["North Indian", "Chinese", "Beverages"],
+        "ratings": "4.2",
+        "isExlusive": true,
+        "delivery_time": "47 mins",
+        "price_for_two": 1200
+      },
+
+      {
+        "name": "Continental Cafe",
+        "url": "https://www.freeimageslive.com/galleries/food/breakfast/pics/continental_breakfast.jpg",
+        "food_types": ["North Indian", "Chinese", "Desserts"],
+        "ratings": "3.1",
+        "isExlusive": false,
+        "delivery_time": "135 mins",
+        "price_for_two": 1700
+      },
+      {
+        "name": "Hot Spot Mini Shop",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": [
+          "Fast Food",
+          "Snacks",
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "4.0",
+        "isExlusive": false,
+        "delivery_time": "108 mins",
+        "price_for_two": 1300
+      },
+      {
+        "name": "Desi Twist",
+        "url": "https://foodfornet.com/wp-content/uploads/Chicken-Shawarma-Final-1.jpg",
+        "food_types": ["North Indian", "Chinese", "Beverages"],
+        "ratings": "4.2",
+        "isExlusive": false,
+        "delivery_time": "47 mins",
+        "price_for_two": 1200
+      },
+      {
+        "name": "Cocoberry",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/6cf95034-bd47-4d54-b9f8-8c4db59d0473.jpg",
+        "food_types": ["Desserts"],
+        "ratings": "4.2",
+        "isExlusive": false,
+        "delivery_time": "52 mins",
+        "price_for_two": 200
+      },
+
+      {
+        "name": "KAKE DA HOTEL",
+        "url": "https://5.imimg.com/data5/EG/KZ/XN/IOS-61267510/punjabi-thali-500x500.jpeg",
+        "food_types": ["North Indian", "Desserts", "Beverages"],
+        "ratings": "4.8",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 350
+      },
+
+      {
+        "name": "Nanking",
+        "url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1-500x500.jpg",
+        "food_types": ["North Indian", "Chinese"],
+        "ratings": "",
+        "isExlusive": true,
+        "delivery_time": "31 mins",
+        "price_for_two": 400
+      },
+      {
+        "name": "KAKE DA HOTEL",
+        "url": "https://5.imimg.com/data5/EG/KZ/XN/IOS-61267510/punjabi-thali-500x500.jpeg",
+        "food_types": ["North Indian", "Desserts", "Beverages"],
+        "ratings": "4.8",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 350
+      },
+      {
+        "name": "Cocoberry",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/6cf95034-bd47-4d54-b9f8-8c4db59d0473.jpg",
+        "food_types": ["Desserts"],
+        "ratings": "4.2",
+        "isExlusive": true,
+        "delivery_time": "52 mins",
+        "price_for_two": 200
+      },
+      {
+        "name": "World Art Dining - Cook house",
+        "url": "https://i.livingfoodz.com/blog_images/099000895e9a53b62d85c46c4d0d62e4_thumb_1200.jpg",
+        "food_types": [
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 1000
+      },
+      {
+        "name": "Nanking",
+        "url": "https://kunal24borah.files.wordpress.com/2014/01/chinese-noodles.jpg",
+        "food_types": ["North Indian", "Chinese"],
+        "ratings": "",
+        "isExlusive": false,
+        "delivery_time": "31 mins",
+        "price_for_two": 400
+      },
+      {
+        "name": "Hot Spot Mini Shop",
+        "url": "https://hips.hearstapps.com/vidthumb/images/delish-mongolian-ramen-and-meatballs-still001-1517959108.jpg",
+        "food_types": [
+          "Fast Food",
+          "Snacks",
+          "North Indian",
+          "Chinese",
+          "Italian",
+          "Desserts",
+          "Beverages"
+        ],
+        "ratings": "4.0",
+        "isExlusive": true,
+        "delivery_time": "108 mins",
+        "price_for_two": 1300
+      },
+      {
+        "name": "Paradise ",
+        "url": "https://ethnomed.org/wp-content/uploads/2020/01/chinese-food-omefrans.jpg",
+        "food_types": ["North Indian", "Chinese", "Beverages"],
+        "ratings": "4.2",
+        "isExlusive": false,
+        "delivery_time": "47 mins",
+        "price_for_two": 1200
+      },
+      {
+        "name": "Cocoberry",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/6cf95034-bd47-4d54-b9f8-8c4db59d0473.jpg",
+        "food_types": ["Desserts"],
+        "ratings": "4.2",
+        "isExlusive": true,
+        "delivery_time": "52 mins",
+        "price_for_two": 200
+      },
+
+      {
+        "name": "KAKE DA HOTEL",
+        "url": "https://5.imimg.com/data5/EG/KZ/XN/IOS-61267510/punjabi-thali-500x500.jpeg",
+        "food_types": ["North Indian", "Desserts", "Beverages"],
+        "ratings": "4.8",
+        "isExlusive": false,
+        "delivery_time": "58 mins",
+        "price_for_two": 350
+      }
+    ]
+  }
+]
