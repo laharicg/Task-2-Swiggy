@@ -71,7 +71,6 @@ class RestaurantGroup extends React.PureComponent {
           )}
           {
             /*
-              Hack:
               Not able to manage things with CSS for two items,
               two items were center aligned instead of stack to left keeping space for third item
               so added an empty tile if the last row has two items.

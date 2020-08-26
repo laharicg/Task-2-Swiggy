@@ -36,7 +36,7 @@ class Main extends React.PureComponent {
     clearTimeout(this.timer);
 
     this.timer = setTimeout(() => {
-      // Windows scroll event and changing sccroll event on click
+      // Windows scroll event and changing scroll event on click
       // of category gets clashed, we need to prevent this default scroll
       // event when category is clicked
       if (this.state && !this.state.disableScrollEvent) {
@@ -46,7 +46,6 @@ class Main extends React.PureComponent {
           var top = ref.domRef.current.getBoundingClientRect().top;
           var height = ref.domRef.current.getBoundingClientRect().height;
 
-          // Hack
           // We know that our code works fine when top is in the viewport
           // but faces issue when current section and appearing section's top
           // both are not visible because screen size is small and section size
